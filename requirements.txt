@@ -1,8 +1,0 @@
-streamlit
-pandas
-matplotlib
-pydantic
-requests
-python-dotenv
-openai
-msal
