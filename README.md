@@ -21,6 +21,8 @@ This project analyzes campus food spending by processing mobile order receipt em
    - Drag and drop them into the folder:
      data/exported_emails/
    - This will save each email as a `.eml` file.
+  
+     NOTE: The repository includes processed sample data for demonstration. Users can add their own .eml files to the data/exported_emails/ folder to run the pipeline on new data.
 
 5. Load and filter receipt emails:
    python3 -m scripts.run_fetch
