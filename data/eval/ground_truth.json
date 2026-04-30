@@ -1,0 +1,23 @@
+[
+    {
+        "message_id": "#107936480 Receipt.eml",
+        "vendor": "The Devil's Krafthouse",
+        "timestamp": "2026-01-27T11:25:00",
+        "location": "Brodhead Center",
+        "total": 4.29
+    },
+    {
+        "message_id": "#106427748 Receipt.eml",
+        "vendor": "Pitchfork's",
+        "timestamp": "2026-01-14T17:09:00",
+        "location": "Mcclendon Tower",
+        "total": 2.34
+    },
+    {
+        "message_id": "#112401518 Receipt.eml",
+        "vendor": "Farmstead & Sprout Sandwiches",
+        "timestamp": "2026-02-25T19:04:00",
+        "location": "Brodhead Center",
+        "total": 12.78
+    }
+]

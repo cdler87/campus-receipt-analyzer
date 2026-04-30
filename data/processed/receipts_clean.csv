@@ -1,0 +1,33 @@
+message_id,vendor,timestamp,location,subtotal,tax,total,parse_success,item_name,quantity,item_price,category
+#113640340 Receipt.eml,Il Forno,2026-03-05 20:25:00,"Brodhead Center, 416 Chapel Drive, Duke University",11.99,0.9,12.89,True,meatballs & spaghetti,1,11.99,meal
+#115358697 Receipt.eml,Pitchfork's,2026-03-22 23:21:00,"Mcclendon Tower, 101 Wannamaker Dr, Duke University",5.28,0.4,5.68,True,side chicken 4 oz,1,2.29,meal
+#115358697 Receipt.eml,Pitchfork's,2026-03-22 23:21:00,"Mcclendon Tower, 101 Wannamaker Dr, Duke University",5.28,0.4,5.68,True,mixed fruit,1,2.99,side
+#111442289 Receipt.eml,The Devil's Krafthouse,2026-02-19 11:33:00,"Brodhead Center, Duke University",3.99,0.3,4.29,True,fresh cut fries,1,3.99,side
+#110513557 Receipt.eml,Farmstead & Sprout Sandwiches,2026-02-12 14:36:00,"Brodhead Center, Duke University",15.38,1.15,16.53,True,honey garlic chicken,1,11.89,meal
+#110513557 Receipt.eml,Farmstead & Sprout Sandwiches,2026-02-12 14:36:00,"Brodhead Center, Duke University",15.38,1.15,16.53,True,side,1,3.49,side
+#109515430 Receipt.eml,The Devil's Krafthouse,2026-02-05 21:49:00,"Brodhead Center, Duke University",21.28,1.6,22.88,True,caribbean fish salad,1,14.49,meal
+#109515430 Receipt.eml,The Devil's Krafthouse,2026-02-05 21:49:00,"Brodhead Center, Duke University",21.28,1.6,22.88,True,milkshake - strawberry (add whipped cream),1,6.79,dessert
+#115485816 Receipt.eml,The Devil's Krafthouse,2026-03-23 22:47:00,"Brodhead Center, Duke University",18.48,1.39,19.87,True,caribbean fish salad,1,14.49,meal
+#115485816 Receipt.eml,The Devil's Krafthouse,2026-03-23 22:47:00,"Brodhead Center, Duke University",18.48,1.39,19.87,True,fresh cut fries,1,3.99,side
+#113581099 Receipt.eml,The Devil's Krafthouse,2026-03-05 15:13:00,"Brodhead Center, Duke University",18.48,1.39,19.87,True,caribbean fish salad,1,14.49,meal
+#113581099 Receipt.eml,The Devil's Krafthouse,2026-03-05 15:13:00,"Brodhead Center, Duke University",18.48,1.39,19.87,True,fresh cut fries,1,3.99,side
+#115082605 Receipt.eml,Pitchfork's,2026-03-19 11:22:00,"Mcclendon Tower, 101 Wannamaker Dr, Duke University",4.56,0.34,4.9,True,side egg,1,0.99,side
+#115082605 Receipt.eml,Pitchfork's,2026-03-19 11:22:00,"Mcclendon Tower, 101 Wannamaker Dr, Duke University",4.56,0.34,4.9,True,whole fruit,1,1.29,side
+#111934045 Receipt.eml,The Devil's Krafthouse,2026-02-23 12:39:00,"Brodhead Center, Duke University",18.48,1.39,19.87,True,caribbean fish salad,1,14.49,meal
+#111934045 Receipt.eml,The Devil's Krafthouse,2026-02-23 12:39:00,"Brodhead Center, Duke University",18.48,1.39,19.87,True,fresh cut fries,1,3.99,side
+#115003340 Receipt.eml,The Devil's Krafthouse,2026-03-18 16:30:00,"Brodhead Center, Duke University",18.48,1.39,19.87,True,caribbean fish salad,1,14.49,meal
+#115003340 Receipt.eml,The Devil's Krafthouse,2026-03-18 16:30:00,"Brodhead Center, Duke University",18.48,1.39,19.87,True,fresh cut fries,1,3.99,side
+#108340175 Receipt.eml,The Devil's Krafthouse,2026-01-29 13:38:00,"Brodhead Center, Duke University",14.49,1.09,15.58,True,caribbean fish salad,1,14.49,meal
+#115589122 Receipt.eml,Il Forno,2026-03-24 17:51:00,"Brodhead Center, 416 Chapel Drive, Duke University",11.99,0.9,12.89,True,meatballs & spaghetti,1,11.99,meal
+#119087744 Receipt.eml,The Devil's Krafthouse,2026-04-19 18:44:00,"Brodhead Center, Duke University",21.47,1.61,23.08,True,caribbean fish salad,1,14.49,meal
+#119087744 Receipt.eml,The Devil's Krafthouse,2026-04-19 18:44:00,"Brodhead Center, Duke University",21.47,1.61,23.08,True,add grilled chicken,1,2.99,meal
+#119087744 Receipt.eml,The Devil's Krafthouse,2026-04-19 18:44:00,"Brodhead Center, Duke University",21.47,1.61,23.08,True,fresh cut fries,1,3.99,side
+#118061808 Receipt.eml,Gothic Grill,2026-04-12 20:59:00,"Bryan Center, 125 Science Drive, Duke University",11.99,0.9,12.89,True,southern fried chicken sandwich,1,11.99,meal
+#118061808 Receipt.eml,Gothic Grill,2026-04-12 20:59:00,"Bryan Center, 125 Science Drive, Duke University",11.99,0.9,12.89,True,fresh fruit,1,0.0,side
+#116515815 Receipt.eml,The Devil's Krafthouse,2026-04-01 11:48:00,"Brodhead Center, Duke University",14.49,1.09,15.58,True,caribbean fish salad,1,14.49,meal
+#120117736 Receipt.eml,The Devil's Krafthouse,2026-04-26 20:14:00,"Brodhead Center, Duke University",18.48,1.39,19.87,True,caribbean fish salad,1,14.49,meal
+#120117736 Receipt.eml,The Devil's Krafthouse,2026-04-26 20:14:00,"Brodhead Center, Duke University",18.48,1.39,19.87,True,fresh cut fries,1,3.99,side
+#115562652 Receipt.eml,The Devil's Krafthouse,2026-03-24 15:02:00,"Brodhead Center, Duke University",14.49,1.09,15.58,True,caribbean fish salad,1,14.49,meal
+#114707278 Receipt.eml,Farmstead & Sprout Sandwiches,2026-03-16 14:55:00,"Brodhead Center, Duke University",11.89,0.89,12.78,True,honey garlic chicken,1,11.89,meal
+#116018544 Receipt.eml,Il Forno,2026-03-28 20:11:00,"Brodhead Center, 416 Chapel Drive, Duke University",11.99,0.9,12.89,True,heritage honey,1,11.99,other
+#117588121 Receipt.eml,The Devil's Krafthouse,2026-04-08 22:56:00,"Brodhead Center, Duke University",14.49,1.09,15.58,True,caribbean fish salad,1,14.49,meal
