@@ -38,6 +38,7 @@ This project analyzes campus food spending by processing mobile order receipt em
 
 ## Video Links
 Demo - [https://youtu.be/-L9yi-AVF9w](url)
+
 Technical Walkthrough - [https://youtu.be/TjAK7yPSZdY](url)
 
 ## Evaluation
