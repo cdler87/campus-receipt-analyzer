@@ -37,7 +37,7 @@ This project analyzes campus food spending by processing mobile order receipt em
    streamlit run app.py
 
 ## Video Links
-https://youtube.com/@cdler8778?si=rtlVzbaFUs6nOXYU
+Demo - [https://youtu.be/-L9yi-AVF9w](url)
 
 ## Evaluation
 
